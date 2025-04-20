@@ -17,7 +17,7 @@ public class RoomPage extends JFrame implements ActionListener {
         cp = super.getContentPane();
         cp.setLayout(new BorderLayout());
 
-        setTitle("ROOM CATALOG");
+        setTitle("ROOM CATALOGUE");
         setSize(700, 550);
         setLocation(360,140);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
