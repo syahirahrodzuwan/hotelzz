@@ -1,5 +1,5 @@
 public class HotelApp {
     public static void main(String[] args) {
-        new Receipt();
+        new RoomPage();
     }
 }
